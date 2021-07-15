@@ -4,10 +4,11 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Table of contents
 - [overview](#overiew)
-  - [The challenge](#the-challenge)
+ - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Where I can use your help](#help)
 
 # overview
 This project was part of a frontend mentor.io challenge.
@@ -27,3 +28,11 @@ This project was part of a frontend mentor.io challenge.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### help
+- how to shorten the code.
+- places where I used lines of code which could have been achieved by less.
+- the right way to achieve placement of things.
+- next challenges
+
+
